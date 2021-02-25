@@ -31,3 +31,5 @@ for job in jobs:
     DATE: {date_}
     URL: https://www.work.ua{url_more}''')
 
+if __name__ == "__main__":
+    main()
